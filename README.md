@@ -13,3 +13,6 @@ pip install
 pip install
 pip install
 ```
+# Running the Code
+
+To run the code there are two option, either download the python scripts directly from the folders "Pytorch code" and "Data Preprocessing" and run this in your favourite IDE. The second option is to download the juptyer notebook format directly and run the code from there as an alternative. As an alternative to training the model from strach, it is possible to download a tranined model from the bst_model file located in the "Pretrained" folder.   
