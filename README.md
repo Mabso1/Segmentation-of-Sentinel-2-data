@@ -9,7 +9,7 @@ The data utalized in repository is provided by the DENETHOR dataset found at the
 To susccesfully run this tutorial the following must be downloaded (using pip is probably the easiest)
 
 ```
-pip install 
+pip3 install torch torchvision # remember to install with GPU support if needed
 pip install
 pip install
 ```
