@@ -8,7 +8,7 @@ This repo demonstrates not only how to train a segmentation model for Sentinel-2
 
 To get the data it is reccomended to create a free trial account at [Sentinel](https://www.sentinel-hub.com/) Hub account before continuing, downloading the data may seem a little confusing if one is new to remote sensing, therefore the request builder or EO browser can be utalized as an alternative.   
 
-If you wish to skip the Sentinel Hub downloading part the data can also be found in the data folder. 
+If you wish to skip the Sentinel Hub downloading part the rasterized cropped data can be found at zendo: https://zenodo.org/records/14592406
 
 # Requriements
 
