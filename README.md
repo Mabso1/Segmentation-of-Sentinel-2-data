@@ -18,6 +18,7 @@ To susccesfully run this tutorial the following must be downloaded (using pip is
 pip3 install torch torchvision # remember to install with GPU support if needed
 pip install geopandas
 pip install cv2
+pip install rasterio
 ```
 If i have skipped any relevant package please reach out to me so that i might fix this. 
 
